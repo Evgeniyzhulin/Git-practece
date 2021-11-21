@@ -1,0 +1,6 @@
+Git status
+git clone
+git add
+git push
+commit
+cd
